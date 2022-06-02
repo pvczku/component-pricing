@@ -1,0 +1,26 @@
+header {
+    width: 90%;
+    margin: auto;
+    padding: 5rem 0;
+    background-image: url(../../images/pattern-circles.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+    h1 {
+        font-size: 1.4rem;
+        font-weight: 800;
+        text-align: center;
+        color: $text-dark;
+        margin: 0 0 .7rem;
+    }
+
+    p {
+        font-size: 1rem;
+        color: $text-light;
+        text-align: center;
+        width: 60%;
+        margin: auto;
+        font-weight: 500;
+    }
+}
